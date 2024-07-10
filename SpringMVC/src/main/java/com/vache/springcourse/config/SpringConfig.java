@@ -12,11 +12,10 @@ import org.thymeleaf.spring6.SpringTemplateEngine;
 import org.thymeleaf.spring6.templateresolver.SpringResourceTemplateResolver;
 import org.thymeleaf.spring6.view.ThymeleafViewResolver;
 
-
 @Configuration
 @ComponentScan("com.vache.springcourse")
 @EnableWebMvc
-public class SpringConfig implements WebMvcConfigurer{
+public class SpringConfig implements WebMvcConfigurer {
 
 	private final ApplicationContext applicationContext;
 
