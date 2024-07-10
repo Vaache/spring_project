@@ -10,10 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="408d2872-138a-4f29-acb2-276a15f2c686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/src/main/java/com/vache/springcourse/controllers/PeopleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/src/main/java/com/vache/springcourse/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/src/main/java/com/vache/springcourse/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vache/springcourse/controllers/FirstControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vache/springcourse/controllers/FirstControllers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +191,8 @@
       <workItem from="1720445447157" duration="196000" />
       <workItem from="1720452964650" duration="530000" />
       <workItem from="1720453509598" duration="3313000" />
-      <workItem from="1720612761154" duration="9528000" />
+      <workItem from="1720612761154" duration="10171000" />
+      <workItem from="1720633999504" duration="11000" />
     </task>
     <servers />
   </component>
